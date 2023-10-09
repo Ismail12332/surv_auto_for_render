@@ -1,10 +1,11 @@
+import os
 from flask import Flask, render_template, request, redirect, url_for, session
 from pymongo import MongoClient
 from passlib.hash import bcrypt
 from bson import ObjectId
 from datetime import datetime
 from dotenv import load_dotenv
-import os
+
 
 load_dotenv()
 
