@@ -11,3 +11,4 @@ Flask
 Flask-PyMongo
 pymongo
 gunicorn
+passlib
