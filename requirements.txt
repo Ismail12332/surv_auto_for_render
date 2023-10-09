@@ -1,13 +1,13 @@
-﻿asgiref==3.7.2
-asttokens==2.2.1
-backcall==0.2.0
-blinker==1.6.2
-click==8.1.6
-colorama==0.4.6
-comm==0.1.3
-debugpy==1.6.7
-decorator==5.1.1
-Flask==2.3.2
-Flask-PyMongo==2.3.0
-pymongo==4.4.1
+﻿asgiref
+asttokens
+backcall
+blinker
+click
+colorama
+comm
+debugpy
+decorator
+Flask
+Flask-PyMongo
+pymongo
 
