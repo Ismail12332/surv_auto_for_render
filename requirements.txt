@@ -12,3 +12,4 @@ Flask-PyMongo
 pymongo
 gunicorn
 passlib
+python-dotenv
