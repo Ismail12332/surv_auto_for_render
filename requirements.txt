@@ -10,4 +10,4 @@ decorator
 Flask
 Flask-PyMongo
 pymongo
-
+gunicorn
