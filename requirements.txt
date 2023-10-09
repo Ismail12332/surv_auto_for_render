@@ -13,3 +13,4 @@ pymongo
 gunicorn
 passlib
 python-dotenv
+bcrypt
